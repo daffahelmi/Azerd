@@ -20,8 +20,8 @@ green='\e[0;32m'
 TIME=$(date '+%d %b %Y')
 ipsaya=$(wget -qO- ipinfo.io/ip)
 TIMES="10"
-CHATID="6617783693"
-KEY="6751589620:AAHwjP6dzZhuqeyUOdYFc6742Q1YUVF1EjM"
+CHATID="1792127445"
+KEY="6535873052:AAEQ0BUBnlk8Sfox1KE4Oejthe0tdDQMFJs"
 URL="https://api.telegram.org/bot$KEY/sendMessage"
 # ===================
 MYIP=$(curl -sS ipv4.icanhazip.com)
@@ -35,9 +35,9 @@ clear && clear && clear
 clear;clear;clear
 
   # // Banner
-echo -e "${YELLOW}----------------------------------------------------------${NC}"
-echo -e "\033[46m           LUNATIC TUNNELING \033[0m"
-echo -e "${YELLOW}----------------------------------------------------------${NC}"
+echo -e "${YELLOW}--------------------------------------${NC}"
+echo -e "\033[46m       daffaVPN \033[0m"
+echo -e "${YELLOW}--------------------------------------${NC}"
 echo ""
 sleep 3
 clear
